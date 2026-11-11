@@ -1,0 +1,8 @@
+py-tgcalls[pyrogram]==3.0.0
+https://github.com/pyrogrammod/pyrogrammod/archive/main.zip
+yt-dlp[default]>=2026.10.26
+deno>=2.3,<3
+tgcrypto
+flask
+requests
+static-ffmpeg
